@@ -8,8 +8,9 @@ Teaching material for 'Mathematics of Deep Learning Workshop' (https://www.mfo.d
 | Monday                                                                                                  | Tuesday | Wednesday | Thursday | Friday |
 |---------------------------------------------------------------------------------------------------------|---------|-----------|----------|--------|
 |                                                                                                         |         |           |          |        |
-| [Kutyniok - Introduction to Neural Networks](Talk_BanachCenter1_2019.pdf)                               |         |           |          |        |
+| [Kutyniok - Introduction to Neural Networks](slides/Kutyniok/Talk_BanachCenter1_2019.pdf)               |         |           |          |        |
 | [Introduction to TensorFlow](https://colab.research.google.com/drive/1UxClfRrD-rBIuT23b2O-Dhoo67304ZVM) |         |           |          |        |
+
 
 
 ----
