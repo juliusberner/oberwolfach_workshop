@@ -1,7 +1,29 @@
-# oberwolfach_workshop
-Teaching material for 'Mathematics of Deep Learning Workshop' (https://www.mfo.de/occasion/1947a)
+# Banach Center – Oberwolfach Graduate Seminar: Mathematics of Deep Learning
 
-Links to the Colab Notebooks:
+Teaching material for 'Mathematics of Deep Learning Workshop' (https://www.mfo.de/occasion/1947a)
+	
+----
+## Overview 
+
+| Monday                                                                                                  | Tuesday | Wednesday | Thursday | Friday |
+|---------------------------------------------------------------------------------------------------------|---------|-----------|----------|--------|
+|                                                                                                         |         |           |          |        |
+| [Kutyniok - Introduction to Neural Networks](Talk_BanachCenter1_2019.pdf)                               |         |           |          |        |
+| [Introduction to TensorFlow](https://colab.research.google.com/drive/1UxClfRrD-rBIuT23b2O-Dhoo67304ZVM) |         |           |          |        |
+
+
+----
+### Talks
+
+1. Gitta Kutyniok 
+   - [Introduction to Neural Networks](https://github.com/juliusberner/oberwolfach_workshop/raw/master/slides/Kutyniok/Talk_BanachCenter1_2019.pdf)
+
+
+
+----
+### Notebooks
+
+#### Google Colaboratory
 
 Fashion_MNIST: https://colab.research.google.com/drive/1UxClfRrD-rBIuT23b2O-Dhoo67304ZVM 
 
@@ -9,6 +31,11 @@ NN_Approximation: https://colab.research.google.com/drive/1_gHoRg-5szIlmsSLTe143
 
 DL_Kolmogorov: https://colab.research.google.com/drive/19KPlzVjRmLsu7EKPScSU7wcnh-OOA2p-
 
-alternative:
 
-Install ``requirements.txt`` (https://www.tensorflow.org/install/pip)
+#### Local Environment
+
+1. Install the Python development environment
+2. Create a virtual environment
+3. Install ``requirements.txt`` 
+
+(see https://www.tensorflow.org/install/pip)
