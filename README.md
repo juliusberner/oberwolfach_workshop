@@ -3,8 +3,11 @@ Teaching material for 'Mathematics of Deep Learning Workshop' (https://www.mfo.d
 
 Links to the Colab Notebooks:
 
-ReLU_Constructions: https://colab.research.google.com/drive/182mZGVyUhEvpF-_YGZU1uiDcqhhXbM1O
+DL_Fashion: 
 
+NN_Approximation: https://colab.research.google.com/drive/1_gHoRg-5szIlmsSLTe143SFpxI81iYCK
+
+DL_Kolmogorov: https://colab.research.google.com/drive/19KPlzVjRmLsu7EKPScSU7wcnh-OOA2p-
 
 alternative:
 
