@@ -3,7 +3,7 @@ Teaching material for 'Mathematics of Deep Learning Workshop' (https://www.mfo.d
 
 Links to the Colab Notebooks:
 
-DL_Fashion: 
+Fashion_MNIST: https://colab.research.google.com/drive/1UxClfRrD-rBIuT23b2O-Dhoo67304ZVM 
 
 NN_Approximation: https://colab.research.google.com/drive/1_gHoRg-5szIlmsSLTe143SFpxI81iYCK
 
