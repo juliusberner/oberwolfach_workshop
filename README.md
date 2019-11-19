@@ -17,7 +17,7 @@ Teaching material for 'Mathematics of Deep Learning Workshop' (https://www.mfo.d
 
 1. Gitta Kutyniok 
    - [Introduction to Neural Networks](https://github.com/juliusberner/oberwolfach_workshop/raw/master/slides/Kutyniok/Talk_BanachCenter1_2019.pdf)
-   - [Kutyniok - Approximation Theory and Expressivity I](https://github.com/juliusberner/oberwolfach_workshop/raw/master/slides/Kutyniok/Talk_BanachCenter2_2019.pdf)
+   - [Approximation Theory and Expressivity I](https://github.com/juliusberner/oberwolfach_workshop/raw/master/slides/Kutyniok/Talk_BanachCenter2_2019.pdf)
 
 
 
