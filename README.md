@@ -5,12 +5,11 @@ Teaching material for 'Mathematics of Deep Learning Workshop' (https://www.mfo.d
 ----
 ## Overview 
 
-| Monday                                                                                                  | Tuesday | Wednesday | Thursday | Friday |
-|---------------------------------------------------------------------------------------------------------|---------|-----------|----------|--------|
-|                                                                                                         |         |           |          |        |
-| [Kutyniok - Introduction to Neural Networks](slides/Kutyniok/Talk_BanachCenter1_2019.pdf)               |         |           |          |        |
-| [Introduction to TensorFlow](https://colab.research.google.com/drive/1UxClfRrD-rBIuT23b2O-Dhoo67304ZVM) |         |           |          |        |
-
+| Monday                                                                                                  | Tuesday                                                                                           | Wednesday | Thursday | Friday |
+|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------|----------|--------|
+|                                                                                                         | [Kutyniok - Approximation Theory and Expressivity I](slides/Kutyniok/Talk_BanachCenter2_2019.pdf) |           |          |        |
+| [Kutyniok - Introduction to Neural Networks](slides/Kutyniok/Talk_BanachCenter1_2019.pdf)               |                                                                                                   |           |          |        |
+| [Introduction to TensorFlow](https://colab.research.google.com/drive/1UxClfRrD-rBIuT23b2O-Dhoo67304ZVM) |                                                                                                   |           |          |        |
 
 
 ----
@@ -18,6 +17,7 @@ Teaching material for 'Mathematics of Deep Learning Workshop' (https://www.mfo.d
 
 1. Gitta Kutyniok 
    - [Introduction to Neural Networks](https://github.com/juliusberner/oberwolfach_workshop/raw/master/slides/Kutyniok/Talk_BanachCenter1_2019.pdf)
+   - [Kutyniok - Approximation Theory and Expressivity I](https://github.com/juliusberner/oberwolfach_workshop/raw/master/slides/Kutyniok/Talk_BanachCenter2_2019.pdf)
 
 
 
