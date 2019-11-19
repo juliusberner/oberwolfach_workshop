@@ -31,11 +31,11 @@ Teaching material for 'Mathematics of Deep Learning Workshop' (https://www.mfo.d
 
 #### Google Colaboratory
 
-Fashion_MNIST: https://colab.research.google.com/drive/1UxClfRrD-rBIuT23b2O-Dhoo67304ZVM 
+- A simple approach to the Fashion-MNIST dataset: [Fashion_MNIST](https://colab.research.google.com/drive/1UxClfRrD-rBIuT23b2O-Dhoo67304ZVM)
 
-NN_Approximation: https://colab.research.google.com/drive/1_gHoRg-5szIlmsSLTe143SFpxI81iYCK
+- Framework for constructing deep neural networks to efficiently approximate various functions: [NN_Approximation](https://colab.research.google.com/drive/1_gHoRg-5szIlmsSLTe143SFpxI81iYCK)
 
-DL_Kolmogorov: https://colab.research.google.com/drive/19KPlzVjRmLsu7EKPScSU7wcnh-OOA2p-
+- Deep learning based method for solving high-dimensional Kolmogorov PDEs: [DL_Kolmogorov](https://colab.research.google.com/drive/19KPlzVjRmLsu7EKPScSU7wcnh-OOA2p-)
 
 
 #### Local Environment
