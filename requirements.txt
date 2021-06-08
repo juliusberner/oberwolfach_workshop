@@ -2,5 +2,6 @@ tensorflow == 2.5.0
 tensorboard
 numpy
 matplotlib
-jupyterlab
+jupyter
 ipywidgets
+scikit-learn
